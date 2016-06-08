@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:32.645794
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:02
 #+TITLE: 信心銘
 #+PROPERTY: CBETA_ID T48n2010
 #+PROPERTY: ID KR6q0085
@@ -163,7 +163,7 @@ No. 2010¶
 　信心不二
 　不二信心¶
 　言語道斷
-　非古來今
+　非古來今」
 #+END_VERSE
-」¶
+¶
 信心銘之終
