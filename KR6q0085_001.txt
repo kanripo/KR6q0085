@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:32.386935
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:02
 #+TITLE: 信心銘
 #+PROPERTY: CBETA_ID T48n2010
 #+PROPERTY: ID KR6q0085
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 48, No. 2010
 #+PROPERTY: VOL 48
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0085_T_000-0376b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0085_T_001-0376b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2010¶
-
- 信心銘¶
+No. 2010¶
+信心銘¶
 ¶
 
 #+BEGIN_VERSE
@@ -164,7 +163,7 @@ No.2010¶
 　信心不二
 　不二信心¶
 　言語道斷
-　非去來今
+　非去來今」
 #+END_VERSE
-」¶
+¶
 信心銘之終
